@@ -487,15 +487,25 @@ footer{
         
     }
 
+    .zoba-title{
+        font-size: 20px;
+    }
+
+    .zoba-link{
+        font-size: 16px;
+    }
+
     .other{
         width: 100%;
         height: 400px;
     }
 
-    .ana, .bloom{
-        
-        max-height: 100%;
+    .deal-description{
+        font-size: 14px;
+    }
 
+    .deal-title{
+        font-size: 24px;
     }
 
     /* join */

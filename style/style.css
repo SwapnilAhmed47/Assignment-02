@@ -219,7 +219,7 @@ body{
 .zoba{
     background-image: 
     linear-gradient(#01010169,
-     rgba(0, 0, 0, 0.452)),
+     rgba(0, 0, 0, 40%)),
     url("../assets/deal-zabo.png");
     height: 423px;
     width: 753px;
@@ -244,7 +244,7 @@ body{
     height: 47%;
     background-image: 
     linear-gradient(#01010169,
-     rgba(0, 0, 0, 0.452)),
+     rgba(0, 0, 0, 40%)),
     url("../assets/deal-bloom.png");
     display: flex;
     justify-content: center;
@@ -262,7 +262,7 @@ body{
     height: 47%;
     background-image: 
     linear-gradient(#01010169,
-     rgba(0, 0, 0, 0.599)),
+     rgba(0, 0, 0, 40%)),
     url("../assets/deal-ana.png");
     display: flex;
     justify-content: center;
